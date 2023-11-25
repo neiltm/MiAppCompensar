@@ -1,0 +1,28 @@
+<!-- res/menu/menu_drawer.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_cart"
+        android:title="Carrito"
+        android:icon="@drawable/carrito" />
+
+    <item
+        android:id="@+id/nav_categories"
+        android:title="Categorías"
+        android:icon="@drawable/categoria" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="Buscar"
+        android:icon="@drawable/buscar" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Mi Perfil"
+        android:icon="@drawable/perfil" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Cerrar Sesión"
+        android:icon="@drawable/salir" />
+</menu>
+

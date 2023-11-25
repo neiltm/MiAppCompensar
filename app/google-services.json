@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "518584342909",
+    "firebase_url": "https://tienda-6ebeb-default-rtdb.firebaseio.com",
+    "project_id": "tienda-6ebeb",
+    "storage_bucket": "tienda-6ebeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518584342909:android:b8ae2994876481d3259414",
+        "android_client_info": {
+          "package_name": "com.example.marketcompensaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8C4CFn4X2VFqXqtArQ2M4zEd8KXdLJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518584342909:android:efa22e65a9b89915259414",
+        "android_client_info": {
+          "package_name": "com.example.marketucompensar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8C4CFn4X2VFqXqtArQ2M4zEd8KXdLJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518584342909:android:4f6a83c0b759f0b8259414",
+        "android_client_info": {
+          "package_name": "com.example.miappcompensar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8C4CFn4X2VFqXqtArQ2M4zEd8KXdLJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518584342909:android:31492fe488787455259414",
+        "android_client_info": {
+          "package_name": "com.example.tiendacompensaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8C4CFn4X2VFqXqtArQ2M4zEd8KXdLJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518584342909-gfskt6a8c7tfrob5it6us2kcgk02epuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
