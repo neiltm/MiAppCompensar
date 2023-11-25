@@ -1,8 +1,14 @@
 # MiAppCompensar
 
-Aplicacion desarrollada para la Materia de "DESARROLLO DE APLICACIONES MOVILES NATIVAS"
+Aplicacion desarrollada para la Materia de:
+
+
+"DESARROLLO DE APLICACIONES MOVILES NATIVAS"
 
 Desalladores:
+
+
+
 Cristian Alejandro Lopez Jara
 
 
